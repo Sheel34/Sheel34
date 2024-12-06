@@ -1,3 +1,9 @@
+<div align = "center">
+
+![](https://github.com/Sheel34/Sheel34/blob/main/Animation.gif?raw=true)
+
+</div>
+
 <img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=Sheel34.Sheel34" alt = "Visitors"/>
 
 <h1 align = "center">
