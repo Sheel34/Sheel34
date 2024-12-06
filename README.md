@@ -1,4 +1,4 @@
-<img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=Sheel34.Sheel34" />
+<img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=Sheel34.Sheel34" alt = "Visitors"/>
 
 <h1 align = "center">
     <img src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Sheel+Patel;" />
@@ -43,29 +43,36 @@
 </div>
 
 <div align = "center">
+    <h2> Github Streak Stats </h2>
+
+![](https://streak-stats.demolab.com/?user=Sheel34&count_private=true&theme=ambient_gradient&border_radius=0) 
+
+</div>
+
+<div align = "center">
   <h2> Github Stats </h2>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheel34&show_icons=true&theme=ambient_gradient)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheel34&count_private=true&show_icons=true&theme=ambient_gradient&border_radius=0&rank_icon=github)
 
 </div>
 
 <div align = "center">
   <h2> Top Languages </h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheel34&layout=compact&theme=ambient_gradient)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheel34&layout=compact&theme=ambient_gradient&border_radius=0)
 
 </div>
 
 <div align = "center">
   <h2> Contributions </h2>
-  <img alt = "Snake eating my contributions" src = "" />
+  <img alt = "Snake eating my contributions" src = "https://raw.githubusercontent.com/Sheel34/Sheel34/output/github-contribution-grid-snake.svg" />
 
 </div>
 
 <div align = "center">
   <h3> Connect with me </h3>
   
-<a href = "sheelashitpatel@gmail.com">
+<a href = "mailto:sheelashitpatel@gmail.com">
   <img src = "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   
 </a>
