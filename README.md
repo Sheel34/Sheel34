@@ -5,7 +5,7 @@
 </h1>
 
 <div align = "center">
-  <h2 align> Languages-Tools-Frameworks </h2>
+  <h3 align> Languages-Tools-Frameworks </h3>
    <p href = "https://skillicons.dev">
     <img src = "https://skillicons.dev/icons?i=c,python,java,cpp" />
     <img src = "https://skillicons.dev/icons?i=mysql,git,github,anaconda,godot,eclipse,powershell" />
@@ -13,7 +13,7 @@
 </div>
 
 <div align = "center">
-  <h2> Leetcode Badges </h2>
+  <h3> Leetcode Badges </h3>
   
 ![LeetCode Medals](https://github.com/Sheel34/Sheel34/blob/main/2024-200.gif?raw=true)
 
@@ -36,35 +36,35 @@
 </div>
 
 <div align = "center">
-  <h2> Leetcode Profile </h2>
+  <h3> Leetcode Profile </h3>
   
 ![](https://leetcard.jacoblin.cool/Sheel_Patel?theme=unicorn)
 
 </div>
 
 <div align = "center">
-    <h2> Github Streak Stats </h2>
+    <h3> Github Streak Stats </h3>
 
 ![](https://streak-stats.demolab.com/?user=Sheel34&count_private=true&theme=ambient_gradient&border_radius=0) 
 
 </div>
 
 <div align = "center">
-  <h2> Github Stats </h2>
+  <h3> Github Stats </h3>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheel34&count_private=true&show_icons=true&theme=ambient_gradient&border_radius=0&rank_icon=github)
 
 </div>
 
 <div align = "center">
-  <h2> Top Languages </h2>
+  <h3> Top Languages </h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheel34&layout=compact&theme=ambient_gradient&border_radius=0)
 
 </div>
 
 <div align = "center">
-  <h2> Contributions </h2>
+  <h3> Contributions </h3>
   <img alt = "Snake eating my contributions" src = "https://raw.githubusercontent.com/Sheel34/Sheel34/output/github-contribution-grid-snake.svg" />
 
 </div>
