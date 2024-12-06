@@ -15,6 +15,9 @@
    <p href = "https://skillicons.dev">
     <img src = "https://skillicons.dev/icons?i=c,python,java,cpp" />
     <img src = "https://skillicons.dev/icons?i=mysql,git,github,anaconda,godot,eclipse,powershell" />
+
+![](https://github.com/Sheel34/Sheel34/blob/main/Fire.gif?raw=true)
+
   </p>
 </div>
 
