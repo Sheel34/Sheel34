@@ -1,14 +1,14 @@
-<div align = "center">
-
-![](https://github.com/Sheel34/Sheel34/blob/main/Animation.gif?raw=true)
-
-</div>
-
 <img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=Sheel34.Sheel34" alt = "Visitors"/>
 
 <h1 align = "center">
     <img src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Sheel+Patel;" />
 </h1>
+
+<div align = "center">
+
+![](https://github.com/Sheel34/Sheel34/blob/main/Animation.gif?raw=true)
+
+</div>
 
 <div align = "center">
   <h3 align> Languages-Tools-Frameworks </h3>
