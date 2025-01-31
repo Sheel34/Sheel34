@@ -26,6 +26,8 @@
   
 ![LeetCode Medals](https://github.com/Sheel34/Sheel34/blob/main/2024-200.gif?raw=true)
 
+![LeetCode Medals](https://github.com/Sheel34/Sheel34/blob/main/202501.gif?raw=true)
+
 ![LeetCode Medals](https://github.com/Sheel34/Sheel34/blob/main/2024-12.gif?raw=true)
 
 ![LeetCode Medals](https://github.com/Sheel34/Sheel34/blob/main/2024-11.gif?raw=true)
