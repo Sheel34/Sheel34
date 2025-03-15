@@ -24,7 +24,7 @@
 <div align = "center">
   <h3> Leetcode Badges </h3>
   
-![LeetCode Medals](https://github.com/Sheel34/Sheel34/blob/main/2024-200.gif?raw=true)
+![LeetCode Medals](https://github.com/Sheel34/Sheel34/blob/main/365_new.gif?raw=true)
 
 ![LeetCode Medals](https://github.com/Sheel34/Sheel34/blob/main/202502.gif?raw=true)
 
